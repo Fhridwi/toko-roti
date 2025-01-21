@@ -23,12 +23,12 @@ if(isset($_SESSION['kd_cs'])){
 		<div class="row top">
 			<center>
 				<div class="col-md-4" style="padding: 3px;">
-					<span> <i class="glyphicon glyphicon-earphone"></i> +6287804616097</span>
+					<span> <i class="glyphicon glyphicon-earphone"></i> +62000000000</span>
 				</div>
 
 
 				<div class="col-md-4"  style="padding: 3px;">
-					<span><i class="glyphicon glyphicon-envelope"></i> rapi-cakebakery@gmail.com</span>
+					<span><i class="glyphicon glyphicon-envelope"></i> cot-cakebakery@gmail.com</span>
 				</div>
 
 

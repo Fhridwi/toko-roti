@@ -88,7 +88,7 @@ $rows = mysqli_fetch_assoc($cs);
 
 			<div class="col-md-6">
 				<div class="form-group">
-					<label for="exampleInputPassword1">Kode Pos</label>
+					<label for="exampleInputPassword1">Kode Poss</label>
 					<input type="text" class="form-control" id="exampleInputPassword1" placeholder="Kode Pos" name="kopos">
 				</div>
 			</div>

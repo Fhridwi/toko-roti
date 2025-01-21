@@ -53,7 +53,7 @@ include 'header.php';
 			</div>
 		</div>
 
-		<button type="submit" class="btn btn-success">Register</button>
+		<button type="submit" class="btn btn-success">Registerr</button>
 	</form>
 </div>
 
