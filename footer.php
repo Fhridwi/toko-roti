@@ -23,7 +23,7 @@
 		</div>
 
 		<div class="copy" style="background-color: #ff8680; padding: 5px; color: #fff; text-align: center;">
-			<span>Copyright&copy; Ahmad Rafi Akbar Putra Hamzah</span>
+			<span>Copyright&copy; Kamel L nya DUA</span>
 		</div>
 	</footer>
 
